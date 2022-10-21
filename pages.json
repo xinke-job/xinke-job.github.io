@@ -35,6 +35,13 @@
 				"navigationBarTitleText": "车主权益",
 				"navigationStyle":"custom"
 			}
+		},
+		{
+			"path": "pages/home/get",
+			"style": {
+				"navigationBarTitleText": "领取权益",
+				"navigationStyle":"custom"
+			}
 		}
 	],
 	"globalStyle": {
